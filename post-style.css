@@ -1,0 +1,19 @@
+.titulo{
+    margin-left: 5rem;
+}
+
+.post-title{
+    text-align: center;
+    padding: 1rem;
+}
+
+.parrafo{
+    margin: 2rem;
+    padding: 1rem;
+}
+
+@media screen and (max-width: 600px) {
+    .parrafo {
+      padding: 0.5rem;
+    }
+}
